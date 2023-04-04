@@ -1,0 +1,20 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/htm@3.1.1": "9bfcf90a678ddf08d89a597d6d3340a80813fa888a5304c256e57802d44846d7",
+    "https://esm.sh/react-dom@18.2.0/server": "4ad05408f3e06bcdc08036880abe01232f9fb9200a03491b7097d922036feb13",
+    "https://esm.sh/react@18.2.0": "84aa07282d2f3c843f7d56daeae0be41ceae768391c4418f7358dd64e8fe4eca",
+    "https://esm.sh/stable/react@18.2.0/deno/react.js": "99f4a29109464569449be1002a828827c6dc9d7a386d28da012c29ba4cc88abd",
+    "https://esm.sh/v111/@types/prop-types@15.7.5/index.d.ts": "6a386ff939f180ae8ef064699d8b7b6e62bc2731a62d7fbf5e02589383838dea",
+    "https://esm.sh/v111/@types/react-dom@18.0.11/server~.d.ts": "062c36a354f037958d99f5741781417e760b9484afb4669288161719df63ae20",
+    "https://esm.sh/v111/@types/react@18.0.26/global.d.ts": "bbdf156fea2fabed31a569445835aeedcc33643d404fcbaa54541f06c109df3f",
+    "https://esm.sh/v111/@types/react@18.0.26/index.d.ts": "bb01db1b434ece658ae4da2a91c855f5ce823bdad82d8a0265e325aa12193450",
+    "https://esm.sh/v111/@types/react@18.0.28/global.d.ts": "bbdf156fea2fabed31a569445835aeedcc33643d404fcbaa54541f06c109df3f",
+    "https://esm.sh/v111/@types/react@18.0.28/index.d.ts": "bb01db1b434ece658ae4da2a91c855f5ce823bdad82d8a0265e325aa12193450",
+    "https://esm.sh/v111/@types/scheduler@0.16.2/tracing.d.ts": "f5a8b384f182b3851cec3596ccc96cb7464f8d3469f48c74bf2befb782a19de5",
+    "https://esm.sh/v111/csstype@3.1.1/index.d.ts": "1c29793071152b207c01ea1954e343be9a44d85234447b2b236acae9e709a383",
+    "https://esm.sh/v111/htm@3.1.1/deno/htm.js": "10ff4fdb79ce3c4c7cf47577410d71162d14b14f579037d42d20bfdd6512cdd7",
+    "https://esm.sh/v111/htm@3.1.1/dist/htm.d.ts": "63182906b224d53eb87b431224eba16215632f5ce1b854075d159a3d5762f052",
+    "https://esm.sh/v111/react-dom@18.2.0/deno/server.js": "856a38f0fc1dd4c3c2a3432d88fbaf29da15eef3155c0cb8ea8de1febe13b197"
+  }
+}

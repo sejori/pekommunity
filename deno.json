@@ -1,0 +1,12 @@
+{
+  "importMap": "import_map.json",
+  "fmt": {
+    "options": {
+      "useTabs": true,
+      "lineWidth": 120,
+      "indentWidth": 2,
+      "singleQuote": false,
+      "proseWrap": "preserve"
+    }
+  }
+}
