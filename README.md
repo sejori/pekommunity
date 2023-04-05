@@ -1,5 +1,7 @@
 # pekommunity
 
-The purpose of this repository to house useful (and generic) middleware, handlers and utils from the community, particularly for integrating external tools and services with [Peko](https://github.com/sebringrose/peko) apps. 
+The purpose of this repository to house generic [Peko](https://github.com/sebringrose/peko) middleware, handlers and utils from the community. Particularly those useful for integrating external tools and services. 
 
 Storing them in one place helps prevent common logic being replicated across community projects and provides a nice productivity boost.
+
+Happy coding ✌️🤓
