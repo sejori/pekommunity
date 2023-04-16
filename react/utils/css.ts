@@ -1,6 +1,9 @@
-export const accumulatedStyles = ""
+export const accumulatedStyles = {
+  css: ""
+}
+
 export const css = (input: TemplateStringsArray) => {
   const string = String(input)
-  accumulatedStyles.concat(string)
+  accumulatedStyles.css.concat(string)
   return string
 }
