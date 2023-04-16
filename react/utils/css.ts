@@ -3,7 +3,7 @@ export const accumulatedStyles = {
 }
 
 export const css = (input: TemplateStringsArray) => {
-  const string = String(input)
-  accumulatedStyles.css.concat(string)
-  return string
+  const cssString = String(input)
+  accumulatedStyles.css += cssString
+  return cssString
 }
